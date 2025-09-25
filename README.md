@@ -21,7 +21,7 @@ Runs every 60 seconds and notifies you if conditions are met.
 1. Clone this repo:
    ```bash
    git clone https://github.com/martialchess/ISS-Overhead.git
-   cd iss-overhead-notifier
+   cd ISS_Overhead
 
 2. Create a virtual environment (optional but recommended):
    python -m venv venv
